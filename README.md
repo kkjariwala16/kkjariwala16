@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my master's in Business Analytics at UT Austin!
+- 🌱 I’m currently learning how to leverage Python, R, and SQL to analyze data.
+- 📫 How to reach me: https://www.linkedin.com/in/khyati-jariwala/
